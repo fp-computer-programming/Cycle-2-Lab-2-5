@@ -1,9 +1,19 @@
-# Create a Python file named lab_2-3.py
+# Create a Python file named lab_2-5.py
 
-# Set a equal to 2. Using the type() function, print the type of variable a
+"""
+For each of the following assignment statements copy the statement as a comment, 
+then write the other way you could write the statement using augmented assignments 
+or not using augmented assignments. To start, set all variables used equal to 21. 
+"""
 
-# Change the type of a to a float using a = float(a). What is the result of printing type(a) now?
+"""
+ x += 5
+ y = y - 3
+ z **= 2
+ w = w % 2
+ t = t / 5
+ a *= 12
+ i = i // 7
+"""
 
-# Convert a to a string. Check its type with a print statement. What has changed?
-
-# Convert a to a Boolean. Print the result of a == 2. What is the result? Why? (Answer as a comment)
+# Be sure to include comments above each pair of 2 lines with the question number (Ex. # Question 1) and print statements beneath each assignment.
